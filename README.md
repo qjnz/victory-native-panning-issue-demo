@@ -1,7 +1,20 @@
-# Victory Native VictoryStack Issues
+# Victory Native VictoryStack Panning Issues
+
+[I have created an issue on Victory Native issues page](https://github.com/FormidableLabs/victory-native/issues/649)
 
 This example showcases some issues with using `VictoryStack` component with `VictoryBar`.
 <img src="assets/victory-native-stacked-bar-chart-issues.png" alt="Victory Native Stacked Bar chart issues" width="300" height="650"/>
+
+```
+# Install Expo cli tools https://docs.expo.io/
+$ npm install --global expo-cli
+
+# Install npm packages for the demo code and run it in ios
+$ yarn install && yarn ios
+
+# If you are using android
+$ yarn install && yarn android
+```
 
 ## 1. `src/NormalBarDemo`
 
